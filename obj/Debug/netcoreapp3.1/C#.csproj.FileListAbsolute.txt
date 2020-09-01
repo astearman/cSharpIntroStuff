@@ -1,0 +1,12 @@
+/Users/andystearman/Desktop/C#/bin/Debug/netcoreapp3.1/C#.deps.json
+/Users/andystearman/Desktop/C#/bin/Debug/netcoreapp3.1/C#.runtimeconfig.json
+/Users/andystearman/Desktop/C#/bin/Debug/netcoreapp3.1/C#.runtimeconfig.dev.json
+/Users/andystearman/Desktop/C#/bin/Debug/netcoreapp3.1/C#.dll
+/Users/andystearman/Desktop/C#/bin/Debug/netcoreapp3.1/C#.pdb
+/Users/andystearman/Desktop/C#/obj/Debug/netcoreapp3.1/C#.csprojAssemblyReference.cache
+/Users/andystearman/Desktop/C#/obj/Debug/netcoreapp3.1/C#.AssemblyInfoInputs.cache
+/Users/andystearman/Desktop/C#/obj/Debug/netcoreapp3.1/C#.AssemblyInfo.cs
+/Users/andystearman/Desktop/C#/obj/Debug/netcoreapp3.1/C#.csproj.CoreCompileInputs.cache
+/Users/andystearman/Desktop/C#/obj/Debug/netcoreapp3.1/C#.dll
+/Users/andystearman/Desktop/C#/obj/Debug/netcoreapp3.1/C#.pdb
+/Users/andystearman/Desktop/C#/obj/Debug/netcoreapp3.1/C#.genruntimeconfig.cache
